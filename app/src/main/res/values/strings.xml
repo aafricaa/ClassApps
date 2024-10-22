@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ClassApps</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="message_recived">Message recived</string>
+    <string name="send">Send</string>
+    <string name="hola">Hola!</string>
+    <string name="hombre">hombre</string>
+    <string name="height">height</string>
+    <string name="error">Error</string>
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="description_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura.</string>
+    <string name="title_peso_normal">Normal</string>
+    <string name="description_peso_normal">Estás en lo óptimo para tu peso y altura.</string>
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Estás por encima de lo óptimo para tu peso y altura.</string>
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estás MUY por encima de lo óptimo para tu peso y altura.</string>
+
+</resources>
